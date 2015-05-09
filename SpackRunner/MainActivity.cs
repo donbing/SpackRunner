@@ -3,6 +3,7 @@ using Android.Widget;
 using Android.OS;
 using Android.Content.PM;
 using Android.Views;
+using Microsoft.Xna.Framework;
 
 namespace SpackRunner
 {
@@ -15,7 +16,7 @@ namespace SpackRunner
 	, ConfigurationChanges = ConfigChanges.Orientation |
 	ConfigChanges.Keyboard |
 	ConfigChanges.KeyboardHidden)]
-	public class MainActivity : Activity
+	public class MainActivity : AndroidGameActivity
 	{
 		int count = 1;
 
