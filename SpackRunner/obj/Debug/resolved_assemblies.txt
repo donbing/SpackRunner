@@ -1,2 +1,0 @@
-/Users/Chris/Projects/SpackRunner/SpackRunner/bin/Debug/SpackRunner.dll
-/Users/Chris/Projects/SpackRunner/packages/MonoGame.Framework.Android.3.3.0.0/lib/MonoAndroid/MonoGame.Framework.dll
